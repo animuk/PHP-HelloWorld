@@ -3,6 +3,6 @@
   <title>PHP Test</title>
  </head>
  <body>
- <?php echo '<p>This PHP app is created from Openshift -1</p>'; ?> 
+ <?php echo '<p>This is a PHP app</p>'; ?> 
  </body>
 </html>
